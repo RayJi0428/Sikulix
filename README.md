@@ -16,3 +16,14 @@ Just download, move it to a folder of your choice and doubleclick to run it.
 An alternative to run it is from commandline using
 
 //兩個jar準備完成後，放在同一個目錄並雙擊sikulix.jar開啟IDE
+
+//IDE介紹
+
+//擷圖
+ctrl + shift + 2
+
+//中斷執行
+alt + shift + c
+
+//sikulix document
+https://sikulix-2014.readthedocs.io/en/latest/
